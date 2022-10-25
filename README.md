@@ -1,0 +1,2 @@
+# Salary-Prediction-Using-Python
+We will be looking at a simple Linear Regression example in Python, and as always, we’ll be using the SciKit Learn library. The dataset has two columns — number of years of work experience, and the salary for that experience. Our goal is to build a model which will learn on this dataset and will be able to predict the salary for a given number of years of experience.
